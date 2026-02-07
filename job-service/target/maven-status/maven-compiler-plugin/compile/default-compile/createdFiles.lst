@@ -1,2 +1,15 @@
+com/job/service/entity/Job$JobType.class
+com/job/service/repository/JobRepository.class
+com/job/service/entity/Job.class
+com/job/service/config/SecurityConfig.class
+com/job/service/serviceImpl/JobServiceImpl.class
 com/gateway/service/mapper/SampleMapper.class
-com/gateway/service/JobPostingApplication.class
+com/job/service/record/JobDTO$JobSkillDTO.class
+com/job/service/controller/JobController.class
+com/job/service/entity/Job$JobStatus.class
+com/job/service/entity/JobSkill.class
+com/job/service/service/JobService.class
+com/job/service/controller/RootController.class
+com/job/service/entity/JobSkill$JobSkillId.class
+com/job/service/record/JobDTO.class
+com/job/service/mapper/JobMapper.class

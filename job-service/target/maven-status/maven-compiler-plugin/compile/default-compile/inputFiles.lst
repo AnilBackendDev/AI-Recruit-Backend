@@ -1,2 +1,12 @@
-/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform/job-service/src/main/java/com/job/service/JobPostingApplication.java
-/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform/job-service/src/main/java/com/job/service/mapper/SampleMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/JobPostingApplication.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/config/SecurityConfig.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/controller/JobController.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/controller/RootController.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/entity/Job.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/entity/JobSkill.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/mapper/JobMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/mapper/SampleMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/record/JobDTO.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/repository/JobRepository.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/service/JobService.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/job-service/src/main/java/com/job/service/serviceImpl/JobServiceImpl.java

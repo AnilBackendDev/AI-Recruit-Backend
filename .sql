@@ -33,16 +33,19 @@ CREATE TABLE tenant (
     type ENUM('COMPANY','VENDOR') NOT NULL,
     plan VARCHAR(50),
     status ENUM('ACTIVE','INACTIVE') DEFAULT 'ACTIVE',
+    admin_email VARCHAR(150),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Tenant ↔ Country Mapping
+-- Tenant ↔ Location Mapping (Country & Optional State)
 CREATE TABLE tenant_country (
     tenant_id BIGINT NOT NULL,
     country_id BIGINT NOT NULL,
-    PRIMARY KEY (tenant_id, country_id),
+    state_id BIGINT DEFAULT NULL,
     CONSTRAINT fk_tc_tenant FOREIGN KEY (tenant_id) REFERENCES tenant(id),
-    CONSTRAINT fk_tc_country FOREIGN KEY (country_id) REFERENCES country(id)
+    CONSTRAINT fk_tc_country FOREIGN KEY (country_id) REFERENCES country(id),
+    CONSTRAINT fk_tc_state FOREIGN KEY (state_id) REFERENCES state(id),
+    UNIQUE KEY uk_tenant_loc (tenant_id, country_id, state_id)
 );
 
 -- Application Users

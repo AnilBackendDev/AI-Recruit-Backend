@@ -17,6 +17,7 @@
     <module>job-service</module>
     <module>vendor-service</module>
     <module>notification-service</module>
+    <module>onboard-service</module>
   </modules>
 
   <properties>

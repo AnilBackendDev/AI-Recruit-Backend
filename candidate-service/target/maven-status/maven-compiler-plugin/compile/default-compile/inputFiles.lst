@@ -1,2 +1,13 @@
-/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform/candidate-service/src/main/java/com/candidate/service/CandidateApplication.java
-/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform/candidate-service/src/main/java/com/candidate/service/mapper/SampleMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/CandidateApplication.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/config/SecurityConfig.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/controller/CandidateController.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/controller/RootController.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/entity/Candidate.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/entity/CandidateEducation.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/entity/CandidateExperience.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/mapper/CandidateMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/mapper/SampleMapper.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/record/CandidateDTO.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/repository/CandidateRepository.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/service/CandidateService.java
+/Users/credr/Desktop/QuickOnboardAI/ai-recruitment-platform-Backend/candidate-service/src/main/java/com/candidate/service/serviceImpl/CandidateServiceImpl.java

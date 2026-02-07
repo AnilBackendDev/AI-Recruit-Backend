@@ -1,4 +1,4 @@
-package com.gateway.service;
+package com.candidate.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
